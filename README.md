@@ -16,6 +16,7 @@
 		- 'git checkout <HASH OR HEAD~> <FILE> ': restores file to <HASH or HEAD~>
 		- 'git checkout master': go back to master
 		- 'git switch master': go back to master
+# remotes
 - 'git remote add <NAME> <URL> ': adds the <URL> as a remote with the name <NAME> 
 		- <NAME> is by convention called 'origin'
 - 'git remote -v': look at all the remotes you have
